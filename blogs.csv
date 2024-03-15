@@ -1,0 +1,15 @@
+Post_id,Title,Content,Author,Description,Publication_date,Card_image_url
+2,second post,"# Second Post
+## This is the first post on this blog 
+
+```
+fmt.Println(\"Hello World!\")
+```
+---
+
+## Intentions for this blog
+- keep a list of mistakes I've made
+- publish yearly goals and reflections on those goals
+- over-engineer the $@!* out of this website 
+- keep notes on books I am reading
+- never be afraid to look stupid [dan luu](https://danluu.com/look-stupid/)",Harrison,"a second post",05/03/23,https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmy.alfred.edu%2Fzoom%2F_images%2Ffoster-lake.jpg&f=1&nofb=1&ipt=39162c360a5fe30733dbb26341371ce13eaa1acd0b470f64d5d381b2fd2b4545&ipo=images

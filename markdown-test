@@ -1,0 +1,15 @@
+# Second Post
+## This is the first post on this blog 
+
+```
+fmt.Println("Hello World!")
+```
+---
+
+## Intentions for this blog
+- keep a list of mistakes I've made
+- publish yearly goals and reflections on those goals
+- over-engineer the $@!* out of this website 
+- keep notes on books I am reading
+- never be afraid to look stupid [dan luu](https://danluu.com/look-stupid/)
+
